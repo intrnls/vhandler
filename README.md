@@ -5,7 +5,7 @@ A dragonfly library to add multiple player and world handler
 ## Install
 
 ```shell
-go get github.com/imlighty/vhandler
+go get github.com/intrnls/vhandler
 ```
 
 ## Usage
