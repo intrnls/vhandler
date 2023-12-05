@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/df-mc/dragonfly/server/item/inventory"
-	"github.com/imlighty/vhandler/priority"
+	"github.com/intrnls/vhandler/priority"
 )
 
 type Inventory struct {
