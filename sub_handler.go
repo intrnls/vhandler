@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/imlighty/vhandler/priority"
+	"github.com/intrnls/vhandler/priority"
 )
 
 type subHandler struct {
