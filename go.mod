@@ -1,6 +1,6 @@
 module github.com/intrnls/vhandler
 
-go 1.19
+go 1.21
 
 require (
 	github.com/df-mc/dragonfly v0.9.7-0.20230610115953-f021ac59eac3
