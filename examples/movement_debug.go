@@ -7,8 +7,8 @@ import (
 	"github.com/df-mc/dragonfly/server/event"
 	"github.com/df-mc/dragonfly/server/player"
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/imlighty/vhandler"
-	"github.com/imlighty/vhandler/priority"
+	"github.com/intrnls/vhandler"
+	"github.com/intrnls/vhandler/priority"
 	"github.com/sirupsen/logrus"
 )
 
