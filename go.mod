@@ -1,4 +1,4 @@
-module github.com/imlighty/vhandler
+module github.com/intrnls/vhandler
 
 go 1.19
 
